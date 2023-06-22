@@ -1,4 +1,4 @@
 # QA Fundamentals
-##Manual QA
+## Manual QA
 
 This is the folder for QA Fundamentals Course June 2023 @ SoftUni
